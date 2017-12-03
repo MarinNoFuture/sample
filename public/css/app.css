@@ -8460,6 +8460,14 @@ aside section span {
   border-radius: 50%;
 }
 
+#logout {
+  cursor: default;
+}
+
+#logout:hover {
+  background-color: transparent;
+}
+
 /* footer */
 
 footer {
